@@ -1,14 +1,18 @@
 1. Alapötlet kialakítása, design terve, bemutatása.
 
 program készítése (feladatok):
-	-Sziráki Csanád: Python program elkészítése + elõadás
-	-Orbán melinda: Projekt felügyelete + elõadás
-	-Meleg Zsófia (Szofi?): Létezik + nem jön órára
+	-Sziráki Csanád (CS): Python program elkészítése + elõadás
+	-Orbán melinda (M): Projekt felügyelete + elõadás
+	-Meleg Zsófia (Szofi?) (?): Létezik + nem jön órára
 
 design terv:
-	-Közlekedési tábla felismerõ
+	-Közlekedési tábla felismerõ MI
 
 2. Kutatómunka, elõkészítés, design kialakítása
+	-CS: kutató munkát végez a mesterséges és az alakzat felismerõ kódokról
+	-M: Elõkészít egy adag képet a késõbbi alapforrásnak és teszteléshez
+	-CS: Elképzelés viszonylagos dokumentálása	
+
 3. MegMesterséges Intelligencia elõadás (Május 6. Péntek 8:30 az Angol évfolyamdolgozat elõtt)
 4. A projekt fejlesztése közben, a folyamat követhetõsége érdekében a projekt tárhelyét osszák meg
 tanárukkal!
