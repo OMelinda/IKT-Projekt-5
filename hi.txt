@@ -1,0 +1,19 @@
+1. Alapötlet kialakítása, design terve, bemutatása.
+
+program készítése (feladatok):
+	-Sziráki Csanád: Python program elkészítése + elõadás
+	-Orbán melinda: Projekt felügyelete + elõadás
+	-Meleg Zsófia (Szofi?): Létezik + nem jön órára
+
+design terv:
+	-Közlekedési tábla felismerõ
+
+2. Kutatómunka, elõkészítés, design kialakítása
+3. MegMesterséges Intelligencia elõadás (Május 6. Péntek 8:30 az Angol évfolyamdolgozat elõtt)
+4. A projekt fejlesztése közben, a folyamat követhetõsége érdekében a projekt tárhelyét osszák meg
+tanárukkal!
+a. Legyen folyamatosan nyomon követhetõ a munkájuk
+b. A csapat minden tagja használja a közös könyvtárat
+5. Adatok feldolgozása, program fejlesztése
+6. Szakmai tartalom ellenõrzése
+7. Projekt Leadás, elõadás
